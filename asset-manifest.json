@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NCCUDC/static/css/main.664dca6c.css",
+    "main.js": "/NCCUDC/static/js/main.50cef078.js",
+    "index.html": "/NCCUDC/index.html",
+    "main.664dca6c.css.map": "/NCCUDC/static/css/main.664dca6c.css.map",
+    "main.50cef078.js.map": "/NCCUDC/static/js/main.50cef078.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.664dca6c.css",
+    "static/js/main.50cef078.js"
+  ]
+}
