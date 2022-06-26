@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NCCUDC/static/css/main.664dca6c.css",
-    "main.js": "/NCCUDC/static/js/main.57a78339.js",
+    "main.js": "/NCCUDC/static/js/main.de832fac.js",
     "index.html": "/NCCUDC/index.html",
     "main.664dca6c.css.map": "/NCCUDC/static/css/main.664dca6c.css.map",
-    "main.57a78339.js.map": "/NCCUDC/static/js/main.57a78339.js.map"
+    "main.de832fac.js.map": "/NCCUDC/static/js/main.de832fac.js.map"
   },
   "entrypoints": [
     "static/css/main.664dca6c.css",
-    "static/js/main.57a78339.js"
+    "static/js/main.de832fac.js"
   ]
 }
