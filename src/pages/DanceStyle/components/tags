@@ -1,0 +1,11 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+Breaking	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Breaking.js	/^const Breaking = () => {$/;"	C	language:JavaScript
+closeNav	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Sidebar.js	/^    const closeNav = () => {$/;"	C	language:JavaScript
+Dancehall	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Dancehall.js	/^const Dancehall = () => {$/;"	C	language:JavaScript
+Hiphop	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Hiphop.js	/^const Hiphop = () => {$/;"	C	language:JavaScript
+House	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/House.js	/^const House = () => {$/;"	C	language:JavaScript
+Jazz	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Jazz.js	/^const Jazz = () => {$/;"	C	language:JavaScript
+openNav	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Sidebar.js	/^    const openNav = () => {$/;"	C	language:JavaScript
+Popping	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Popping.js	/^const Popping = () => {$/;"	C	language:JavaScript
+Sidebar	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Sidebar.js	/^const Sidebar = () => {$/;"	C	language:JavaScript
+Waacking	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/components/Waacking.js	/^const Waacking = () => {$/;"	C	language:JavaScript

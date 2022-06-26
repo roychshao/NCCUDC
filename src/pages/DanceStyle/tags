@@ -1,0 +1,14 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+#main	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^#main {$/;"	i	language:CSS
+.about-page	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.about-page {$/;"	c	language:CSS
+.about-page h2	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.about-page h2 {$/;"	s	language:CSS
+.about-page p	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.about-page p {$/;"	s	language:CSS
+.openbtn	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.openbtn {$/;"	c	language:CSS
+.openbtn:hover	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.openbtn:hover {$/;"	c	language:CSS
+.sidebar	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.sidebar {$/;"	c	language:CSS
+.sidebar .closebtn	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.sidebar .closebtn {$/;"	c	language:CSS
+.sidebar a	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.sidebar a {$/;"	s	language:CSS
+.sidebar a:hover	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^.sidebar a:hover {$/;"	s	language:CSS
+DanceStyle	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^const DanceStyle = () => {$/;"	C	language:JavaScript
+height	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^        height: "50px"$/;"	p	language:JavaScript	class:space
+space	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^    const space = {$/;"	c	language:JavaScript

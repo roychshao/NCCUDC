@@ -1,0 +1,11 @@
+.home-page {
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: white;
+}
+
+.intro {
+    font-size: 20px;
+    margin-top: 30px;
+    color: black;
+}

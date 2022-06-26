@@ -1,0 +1,16 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+#main	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^#main {$/;"	i	language:CSS
+.activity-page	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.activity-page {$/;"	c	language:CSS
+.anchor	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.anchor {$/;"	c	language:CSS
+.content	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.content {$/;"	c	language:CSS
+.content h2	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.content h2 {$/;"	s	language:CSS
+.content img	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.content img {$/;"	s	language:CSS
+.content p	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.content p {$/;"	s	language:CSS
+.openbtn	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.openbtn {$/;"	c	language:CSS
+.openbtn:hover	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.openbtn:hover {$/;"	c	language:CSS
+.sidebar	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.sidebar {$/;"	c	language:CSS
+.sidebar .closebtn	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.sidebar .closebtn {$/;"	c	language:CSS
+.sidebar a	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.sidebar a {$/;"	s	language:CSS
+.sidebar a:hover	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.sidebar a:hover {$/;"	s	language:CSS
+Activity	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^const Activity = () => {$/;"	C	language:JavaScript
+section	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^section {$/;"	s	language:CSS

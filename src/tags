@@ -1,0 +1,15 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+.itemLinkStyle	/home/roy/codes/Web/NCCUDC/src/index.css	/^.itemLinkStyle {$/;"	c	language:CSS
+.itemLinkStyle:active	/home/roy/codes/Web/NCCUDC/src/index.css	/^.itemLinkStyle:active {$/;"	c	language:CSS
+.itemLinkStyle:hover	/home/roy/codes/Web/NCCUDC/src/index.css	/^.itemLinkStyle:hover {$/;"	c	language:CSS
+.navbar-brand	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navbar-brand {$/;"	c	language:CSS
+.navbar-nav	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navbar-nav {$/;"	c	language:CSS
+.navbar-nav a:link	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navbar-nav a:link {$/;"	s	language:CSS
+.navlink	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navlink {$/;"	c	language:CSS
+.navlink:hover	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navlink:hover {$/;"	c	language:CSS
+body	/home/roy/codes/Web/NCCUDC/src/index.css	/^body {$/;"	s	language:CSS
+code	/home/roy/codes/Web/NCCUDC/src/index.css	/^code {$/;"	s	language:CSS
+footer	/home/roy/codes/Web/NCCUDC/src/index.css	/^footer {$/;"	s	language:CSS
+footer p	/home/roy/codes/Web/NCCUDC/src/index.css	/^footer p {$/;"	s	language:CSS
+root	/home/roy/codes/Web/NCCUDC/src/index.js	/^const root = ReactDOM.createRoot(document.getElementById('root'));$/;"	C	language:JavaScript
+Router	/home/roy/codes/Web/NCCUDC/src/index.js	/^export default function Router() {$/;"	f	language:JavaScript

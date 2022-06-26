@@ -1,0 +1,13 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+BackToTop	/home/roy/codes/Web/NCCUDC/src/components/Back-to-Top.js	/^export const BackToTop = () => {$/;"	C	language:JavaScript
+brand	/home/roy/codes/Web/NCCUDC/src/components/Top-nav.js	/^        brand: {$/;"	c	language:JavaScript	class:styles
+buttonStyle	/home/roy/codes/Web/NCCUDC/src/components/Back-to-Top.js	/^    const buttonStyle = {$/;"	c	language:JavaScript
+fontSize	/home/roy/codes/Web/NCCUDC/src/components/Top-nav.js	/^            fontSize: "25px"$/;"	p	language:JavaScript	class:styles.brand
+Footer	/home/roy/codes/Web/NCCUDC/src/components/Footer.js	/^const Footer = () => {$/;"	C	language:JavaScript
+marginLeft	/home/roy/codes/Web/NCCUDC/src/components/Back-to-Top.js	/^        marginLeft: "100px",$/;"	p	language:JavaScript	class:buttonStyle
+marginLeft	/home/roy/codes/Web/NCCUDC/src/components/Top-nav.js	/^            marginLeft: "150px",$/;"	p	language:JavaScript	class:styles.brand
+marginTop	/home/roy/codes/Web/NCCUDC/src/components/Back-to-Top.js	/^        marginTop: "850px",$/;"	p	language:JavaScript	class:buttonStyle
+position	/home/roy/codes/Web/NCCUDC/src/components/Back-to-Top.js	/^        position: "fixed",$/;"	p	language:JavaScript	class:buttonStyle
+styles	/home/roy/codes/Web/NCCUDC/src/components/Top-nav.js	/^    const styles = {$/;"	c	language:JavaScript
+switchShow	/home/roy/codes/Web/NCCUDC/src/components/Back-to-Top.js	/^    const [show, switchShow] = useState(false);$/;"	C	language:JavaScript
+Topnav	/home/roy/codes/Web/NCCUDC/src/components/Top-nav.js	/^const Topnav = () => {$/;"	C	language:JavaScript

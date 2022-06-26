@@ -1,0 +1,16 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+.home-page	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.css	/^.home-page {$/;"	c	language:CSS
+.intro	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.css	/^.intro {$/;"	c	language:CSS
+container	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^        container: {$/;"	c	language:JavaScript	class:styles
+Home	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^const Home = () => {$/;"	C	language:JavaScript
+img	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^        img: {$/;"	c	language:JavaScript	class:styles
+marginLeft	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^            marginLeft: "0px",$/;"	p	language:JavaScript	class:styles.row
+marginRight	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^            marginRight: "0px"$/;"	p	language:JavaScript	class:styles.row
+marginTop	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^            marginTop: "76px"$/;"	p	language:JavaScript	class:styles.img
+paddingLeft	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^            paddingLeft: "0px",$/;"	p	language:JavaScript	class:styles.container
+paddingLeft	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^            paddingLeft: "0px",$/;"	p	language:JavaScript	class:styles.img
+paddingRight	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^            paddingRight: "0px"$/;"	p	language:JavaScript	class:styles.container
+paddingRight	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^            paddingRight: "0px",$/;"	p	language:JavaScript	class:styles.img
+row	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^        row: {$/;"	c	language:JavaScript	class:styles
+styles	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^        <Container fluid style={styles.container}>$/;"	M	language:JavaScript	class:AnonymousClass15a70f0f0101
+styles	/home/roy/codes/Web/NCCUDC/src/pages/Home/index.js	/^    const styles = {$/;"	c	language:JavaScript
