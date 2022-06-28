@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react'
 import Topnav from './../../components/Top-nav'
 import Footer from './../../components/Footer'
 import Sidebar from './components/Sidebar'
@@ -15,11 +16,34 @@ import { Container, Row, Col, Carousel } from 'react-bootstrap';
 import './index.css';
 
 
+
+const useRWD = () => {
+    const [colsize, setColsize] = useState(7);
+    const handleRWD = () => {
+        if(window.innerWidth > 768) {
+            setColsize(7);
+        } else {
+            setColsize(9);
+        }
+    }
+
+    useEffect( () => {
+        window.addEventListener('resize', handleRWD);
+        handleRWD();
+        return(()=>{
+            window.removeEventListener('resize', handleRWD);
+        })
+    }, [])
+    return colsize;
+}
+
 const DanceStyle = () => {
 
     const space = {
         height: "50px"
     }
+    
+    const colsize = useRWD();
 
     return (
         <Container fluid>
@@ -28,7 +52,7 @@ const DanceStyle = () => {
                 <Col className="g-0">
                     <Sidebar/>
                 </Col>
-                <Col className="g-0" xs={6}>
+                <Col className="g-0" xs={colsize}>
                     <div className="about-page">
                         <h1 id="dancehall">舞風</h1>
                         <hr/>

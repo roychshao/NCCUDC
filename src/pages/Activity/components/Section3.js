@@ -1,12 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 社內盃 from './../public/社內盃.jpg'
 import { Button } from 'react-bootstrap'
 
 // College High
-const Section3 = () => {
+const Section3 = ({btnSize}) => {
     return (
         <section>
             <h2>社內盃</h2>
-            <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/265944872_4980462441986835_3316516145498029916_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_ohc=-q2MbVW6qx4AX8mt2e1&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT-KIc8edVDiP-M5-yqmzyYcmO1G1VmoSbnyorT35zQ_wQ&oe=62B916AE" alt="社內盃" width="100%"/>
+            <img src={社內盃} alt="社內盃" width="100%"/>
             <p>《政大搖擺─擺脫過去，趴踢起來》政大熱舞社內派對
                 <br/>【報名辦法及時間】
                 <br/>分為「網路報名」及「現場報名」
@@ -26,7 +27,7 @@ const Section3 = () => {
                 <br/>召部將抽籤把報名者隨機組成兩人戰隊～
                 <br/>兩人將成為當天一路相挺的戰友！
             </p>
-            <Button variant="outline-secondary" size="lg" id="聖誕小成">參賽報名</Button>
+            <Button variant="outline-secondary" size={btnSize} id="聖誕小成">參賽報名</Button>
         </section>
     );
 }

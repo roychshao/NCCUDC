@@ -1,6 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from 'react-bootstrap';
-
+import j1 from './../public/j1.jpg';
+import j2 from './../public/j2.jpg';
+import j3 from './../public/j3.jpg';
 
 const Jazz = () => {
     return (
@@ -9,19 +11,19 @@ const Jazz = () => {
             <h4>Jazz</h4>
             <Carousel variant="light">
                 <Carousel.Item interval={6000}>
-                    <img src="https://i.ytimg.com/vi/y5jJZUusSHA/maxresdefault.jpg" alt="jazz" height="550px" width="1000px"/>
+                    <img src={j1} alt="jazz" height="550px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>爵士舞動作的本質是一種自由而純樸的表現，直接把內心的感受用身體的顛，抖，扭表達出來。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <img src="https://dancemagazine.com.au/wp-content/uploads/2019/11/jazz.jpg" alt="jazz" height="550px" width="1000px"/>
+                    <img src={j2} alt="jazz" height="550px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>就像我們聽到喜歡的音樂，能從內心自然的流露出感情，身體就不由自主的隨著音樂節奏而活動。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <img src="https://static.wixstatic.com/media/0a59a4_39244e2cc57b4459b02e18bc459480c5.jpg/v1/fill/w_736,h_484,al_c,q_90/0a59a4_39244e2cc57b4459b02e18bc459480c5.jpg" alt="jazz" height="550px" width="1000px"/>
+                    <img src={j3} alt="jazz" height="550px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>如彈響手指，擺首頓足，時而興奮激烈，時而緩慢優柔的溶入音樂之中。</h3>
                     </Carousel.Caption>

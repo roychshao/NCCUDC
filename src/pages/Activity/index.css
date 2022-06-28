@@ -1,4 +1,5 @@
 .activity-page {
+    margin-top: 30px;
     overflow-y: auto;
     background-color: white;
 }
@@ -73,9 +74,8 @@ section {
 
 .openbtn {
   position: fixed;
-  top: 13px;
+  top: 90px;
   left: 50px;
-  z-index: 10000;
   font-size: 20px;
   cursor: pointer;
   background-color: #111;
@@ -91,4 +91,42 @@ section {
 #main {
   transition: margin-left .5s;
   padding: 16px;
+}
+
+@media only screen and (max-width: 991px) {
+    .sidebar {
+        margin-top: 45px !important;
+    }
+    .openbtn {
+        top: 70px !important;
+        left: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    img {
+        height: 350px !important;
+        width: 100% !important;
+    }
+    p {
+        font-size: 1rem !important;
+        width: auto !important;
+    }
+    .sidebar a {
+        font-size: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    img {
+        height: 127px !important;
+        width: 100% !important;
+    }
+    p {
+        font-size: 0.8rem !important;
+        width: auto !important;
+    }
+    .sidebar a {
+        font-size: 0.9rem;
+    }
 }

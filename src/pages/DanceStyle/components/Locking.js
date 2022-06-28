@@ -1,5 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from 'react-bootstrap';
+import l1 from './../public/l1.png';
+import l2 from './../public/l2.jpeg';
+import l3 from './../public/l3.jpg';
 
 
 const Locking = () => {
@@ -9,19 +12,19 @@ const Locking = () => {
             <h4>Locking</h4>
             <Carousel variant="light">
                 <Carousel.Item interval={6000}>
-                    <img src="https://global-uploads.webflow.com/5e2b8863ba7fff8df8949888/5fb56da1910167de85ea4ae0_LOCKING_FEATURED_IMAGE.png" alt="locking" height="550px" width="1000px"/>
+                    <img src={l1} alt="locking" height="550px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>鎖舞（英文：Locking，最初稱為Campbellocking）是funk dance和街舞中的一種舞風，現今也與嘻哈有所關聯。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <img src="https://image6.thenewslens.com/2020/2/w5u66sr671yfahjn4q1q8n3wee0l7k.png?auto=compress&h=450&q=80&w=750" alt="locking" height="550px" width="1000px"/>
+                    <img src={l2} alt="locking" height="550px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>快速、明顯的手臂及手部運動，搭配比較放鬆的臀部和腿部, 這些運動通常又大又誇張。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <img src="https://seektash.com/wp-content/uploads/2018/08/About_locking1.jpg" alt="locking" height="550px" width="1000px"/>
+                    <img src={l3} alt="locking" height="550px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>鎖舞是相當表演導向的，經常藉由微笑或高舉雙手擊掌(giving a high five)來與觀眾互動，具有喜劇性質。</h3>
                     </Carousel.Caption>

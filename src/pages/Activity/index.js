@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react'
 import './index.css'
 import Topnav from './../../components/Top-nav'
 import Footer from './../../components/Footer'
@@ -15,7 +16,34 @@ import Section9 from './components/Section9'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button, Container, Row, Col } from 'react-bootstrap';
 
+
+
+const useRWD = () => {
+    const [colsize, setColsize] = useState(7);
+    const [btnsize, setBtnsize] = useState("lg");
+    const handleRWD = () => {
+        if(window.innerWidth > 768) {
+            setColsize(7);
+            setBtnsize("lg");
+        } else {
+            setColsize(9);
+            setBtnsize("md");
+        }
+    }
+
+    useEffect( () => {
+        window.addEventListener('resize', handleRWD);
+        handleRWD();
+        return(()=>{
+            window.removeEventListener('resize', handleRWD);
+        })
+    }, [])
+    return [colsize, btnsize];
+}
+
 const Activity = () => {
+
+    const [colsize, btnsize] = useRWD();
 
     return (
         <Container fluid>
@@ -24,18 +52,18 @@ const Activity = () => {
                 <Col className="g-0">
                     <Sidebar/>
                 </Col>
-                <Col xs={6}>
+                <Col xs={colsize}>
                     <div className="activity-page">
                         <div className="content">
-                            <Section1 />
-                            <Section2 />
-                            <Section3 />
-                            <Section4 />
-                            <Section5 />
-                            <Section6 />
-                            <Section7 />
-                            <Section8 />
-                            <Section9 />
+                            <Section1 btnSize={btnsize}/>
+                            <Section2 btnSize={btnsize}/>
+                            <Section3 btnSize={btnsize}/>
+                            <Section4 btnSize={btnsize}/>
+                            <Section5 btnSize={btnsize}/>
+                            <Section6 btnSize={btnsize}/>
+                            <Section7 btnSize={btnsize}/>
+                            <Section8 btnSize={btnsize}/>
+                            <Section9 btnSize={btnsize}/>
                         </div>
                     </div>
                 </Col>

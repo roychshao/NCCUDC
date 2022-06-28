@@ -1,12 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 世政輔 from './../public/世政輔.jpg'
 import { Button } from 'react-bootstrap'
 
 // 世政輔
-const Section5 = () => {
+const Section5 = ({btnSize}) => {
     return (
         <section>
             <h2>世政輔</h2>
-            <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/274984646_5268434923189584_8895273369042211147_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=340051&_nc_ohc=vuPGZYtPpIcAX-VVNFv&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT9W4gmF8tuKrNofh8DVIvG_p6zHRoku1BsGCLckDXZItg&oe=62BB2FD1" alt="世政輔" width="100%"/>
+            <img src={世政輔} alt="世政輔" width="100%"/>
             <p>-世新 X 政大 X 輔仁--
                 <br/>賽事資訊:
                 <br/>一、
@@ -22,7 +23,7 @@ const Section5 = () => {
                 <br/>14:30-15:00 Locking audition
                 <br/>15:00-15:30 Waacking audition
             </p>
-            <Button variant="outline-secondary" size="lg" id="四校party">參賽報名</Button>
+            <Button variant="outline-secondary" size={btnSize} id="四校party">參賽報名</Button>
         </section>
     );
 }

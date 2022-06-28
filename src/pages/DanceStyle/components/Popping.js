@@ -1,6 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from 'react-bootstrap';
-
+import p1 from './../public/p1.jpeg';
+import p2 from './../public/p2.jpg';
+import p3 from './../public/p3.jpeg';
 
 const Popping = () => {
     return (
@@ -9,19 +11,19 @@ const Popping = () => {
             <h4>Popping</h4>
             <Carousel variant="light">
                 <Carousel.Item interval={6000}>
-                    <img src="https://global-uploads.webflow.com/5e2b8863ba7fff8df8949888/5ea9e41c7f99dc9258dff62e_5e28eb130ab615fb245115a5_what-is-popping-dance-p-1600.jpeg" alt="popping" height="500px" width="1000px"/>
+                    <img src={p1} alt="popping" height="500px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>popping是放克舞蹈和街舞中的一種風格，基本是藉由肌肉迅速地收縮與放鬆的技巧，使舞者的身體產生種顫動的感覺。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <img src="https://www.newton.com.tw/img/8/034/cGcq5CZ4YWNhNWN5YWM1ITZ0E2MlRjMjFzM1EjZxQmZzQGOhVWM2EmY4MDOv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg" alt="popping" height="500px" width="1000px"/>
+                    <img src={p2} alt="popping" height="500px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>這種技巧稱作「pop」或「hit」，舞者會以多種不同的動作和姿勢來配合歌曲的節奏。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <img src="https://cdn.hk01.com/di/media/images/dw/20210824/506900453145972736952817.jpeg/EoeULYsbMmileN5GIR4pALuolSi-rp1GXKpDkFyqQ5A?v=w1920" alt="popping" height="500px" width="1000px"/>
+                    <img src={p3} alt="popping" height="500px" width="1000px"/>
                     <Carousel.Caption>
                         <h3>popping舞者又被稱為「popper」。popping常被說是機械舞,'機械'是在popping中的一種技巧,這種技巧稱作「robot」。 </h3>
                     </Carousel.Caption>

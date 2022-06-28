@@ -1,12 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 聖誕小成 from './../public/聖誕小成.jpg'
 import { Button } from 'react-bootstrap'
 
 // 聖誕小成
-const Section4 = () => {
+const Section4 = ({btnSize}) => {
     return (
         <section>
             <h2>聖誕小成</h2>
-            <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/269603319_5031702943529451_5229738969597845491_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_ohc=8n_QJHg5zecAX_Yd44K&_nc_ht=scontent.ftpe7-3.fna&oh=00_AT8qwIo3OB5XXobilcBSoBB4RD9eTyNwKPTFdBTgKsW6Ng&oe=62BB0A46" alt="聖誕小成" width="100%"/>
+            <img src={聖誕小成} alt="聖誕小成" width="100%"/>
             <p>【活動日期】
                 <br/>2020年12月25日星期五 
                 <br/>【活動地點】
@@ -28,7 +29,7 @@ const Section4 = () => {
                 <br/>【Judge】
                 <br/>葉乃瑋、陳柔均、陳騰睿、林彣勳、王彩鈞、顏瑄誼、盧季佑
             </p>
-            <Button variant="outline-secondary" size="lg" id="世政輔">聖誕小成報名</Button>
+            <Button variant="outline-secondary" size={btnSize} id="世政輔">聖誕小成報名</Button>
         </section>
     );
 }

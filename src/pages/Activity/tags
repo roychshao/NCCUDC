@@ -6,11 +6,24 @@
 .content h2	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.content h2 {$/;"	s	language:CSS
 .content img	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.content img {$/;"	s	language:CSS
 .content p	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.content p {$/;"	s	language:CSS
+.openbtn	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    .openbtn {$/;"	c	language:CSS
 .openbtn	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.openbtn {$/;"	c	language:CSS
 .openbtn:hover	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.openbtn:hover {$/;"	c	language:CSS
+.sidebar	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    .sidebar {$/;"	c	language:CSS
 .sidebar	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.sidebar {$/;"	c	language:CSS
 .sidebar .closebtn	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.sidebar .closebtn {$/;"	c	language:CSS
+.sidebar a	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    .sidebar a {$/;"	s	language:CSS
+.sidebar a	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    .sidebar a {$/;"	s	language:CSS
 .sidebar a	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.sidebar a {$/;"	s	language:CSS
 .sidebar a:hover	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^.sidebar a:hover {$/;"	s	language:CSS
 Activity	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^const Activity = () => {$/;"	C	language:JavaScript
+btnsize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const [colsize, btnsize] = useRWD();$/;"	C	language:JavaScript
+handleRWD	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const handleRWD = () => {$/;"	C	language:JavaScript
+img	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    img {$/;"	s	language:CSS
+img	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    img {$/;"	s	language:CSS
+p	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    p {$/;"	s	language:CSS
+p	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    p {$/;"	s	language:CSS
 section	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^section {$/;"	s	language:CSS
+setBtnsize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const [btnsize, setBtnsize] = useState("lg");$/;"	C	language:JavaScript
+setColsize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const [colsize, setColsize] = useState(7);$/;"	C	language:JavaScript
+useRWD	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^const useRWD = () => {$/;"	C	language:JavaScript

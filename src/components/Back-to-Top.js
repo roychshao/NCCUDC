@@ -3,15 +3,31 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button } from 'react-bootstrap'
 
 
-export const BackToTop = () => {
 
-    const buttonStyle = {
-        marginLeft: "100px",
-        marginTop: "850px",
-        position: "fixed",
+const useRWD = () => {
+    const [btnsize, setBtnsize] = useState("lg");
+    const handleRWD = () => {
+        if(window.innerWidth > 768) {
+            setBtnsize("lg");
+        } else {
+            setBtnsize("md");
+        }
     }
+
+    useEffect( () => {
+        window.addEventListener('resize', handleRWD);
+        handleRWD();
+        return(()=>{
+            window.removeEventListener('resize', handleRWD);
+        })
+    }, [])
+    return btnsize;
+}
+
+export const BackToTop = () => {
     
     const [show, switchShow] = useState(false);
+    const btnsize = useRWD();
 
     useEffect(() => {
         const listener = () => {
@@ -28,7 +44,7 @@ export const BackToTop = () => {
 
 
     return (
-        <Button variant="outline-success" size="lg" style={buttonStyle} id="toggle-button" onClick={()=>window.scrollTo(0, 0)}>TOP</Button>
+        <Button variant="outline-success" size={btnsize} id="toggle-button" onClick={()=>window.scrollTo(0, 0)}>TOP</Button>
     );
 }
 

@@ -1,7 +1,9 @@
 const Footer = () => {
     return (
         <footer>
-            <p>webpage design by royshao &nbsp;&nbsp; email: roych.shao@gmail.com</p>
+            <p>webpage design by royshao
+                <br/>email: roych.shao@gmail.com
+            </p>
         </footer>
     );
 }

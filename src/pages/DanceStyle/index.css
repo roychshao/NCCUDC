@@ -1,5 +1,5 @@
 .about-page {
-    margin-top: 120px;
+    margin-top: 130px;
     overflow-y: auto;
 }
 
@@ -15,6 +15,7 @@
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
+    padding-right: 20px;
     background-color: #E0E0E0;
     border-left: 5px #8E8E8E solid;
 }
@@ -24,7 +25,7 @@
   height: 100%;
   width: 0;
   position: fixed;
-  z-index: 1;
+  z-index: 10000;
   top: 0;
   left: 0;
   background-color: #111;
@@ -56,9 +57,8 @@
 
 .openbtn {
   position: fixed;
-  top: 13px;
+  top: 90px;
   left: 50px;
-  z-index: 10000;
   font-size: 20px;
   cursor: pointer;
   background-color: #111;
@@ -74,4 +74,58 @@
 #main {
   transition: margin-left .5s;
   padding: 16px;
+}
+
+@media only screen and (max-width: 991px) {
+    .sidebar {
+        margin-top: 45px !important;
+    }
+    .openbtn {
+        top: 70px !important;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    img {
+        height: 305px !important;
+        width: 100% !important;
+    }
+    p {
+        font-size: 1rem !important;
+        width: auto !important;
+    }
+    .carousel-caption {
+        padding-bottom: 1rem !important;
+    }
+    .carousel-caption h3 {
+        font-size: 1.2rem !important;
+    }
+    .sidebar a {
+        font-size: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    img {
+        height: 127px !important;
+        width: 100% !important;
+    }
+    p {
+        font-size: 0.8rem !important;
+        width: auto !important;
+    }
+    .sidebar a {
+        font-size: 0.9rem;
+    }
+    .carousel-caption {
+        padding-bottom: 0.1rem !important;
+    }
+    .carousel-caption h3 {
+        font-size: 0.55rem !important;
+        margin-bottom: 0.04rem !important;
+        padding-bottom: 0.04rem !important;
+    }
+    .carousel-indicators {
+        margin-bottom: 0.1rem !important;
+    }
 }
