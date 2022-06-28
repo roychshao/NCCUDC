@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import college_high from './../public/college_high.png'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // College High
 const Section2 = ({btnSize}) => {
     return (
         <section>
             <h2>COLLEGE HIGH</h2>
-            <img src={college_high} alt="college-high" width="100%"/>
+            <Image fluid src={college_high} alt="college-high" width="100%"/>
             <p>College High (又稱「大學爽」)，創辦2009年，為台灣最早創辦之5 vs. 5團體校際街舞battle賽，賽制致敬日本經典電玩「格鬥天王」模式，
                 <br/>雙方各派一員上場，勝方續戰敗方淘汰，先耗盡選手則落敗，為Team SKIP原創之街舞賽制。
                 <br/>由於模式新奇，且參賽條件以「校」為單位，促使不少社團參與度較低的街舞好手，紛紛走回社團，披上校徽為校而戰，且因「連勝連殺」、「逆風反敗」及「黑馬竄出」...

@@ -3,7 +3,7 @@ import Topnav from './../../components/Top-nav';
 import Footer from './../../components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NCCUDC27 from './NCCUDC27.jpg';
-import { Button, Container, Row, Col } from 'react-bootstrap';
+import { Button, Container, Row, Col, Image } from 'react-bootstrap';
 import './index.css';
 
 
@@ -47,7 +47,7 @@ const Home = () => {
 
     return (
         <Container fluid style={styles.container}>
-            <img className="nccudc" src={NCCUDC27} alt="NCCUDC27 picture" width="100%" />
+            <Image fluid className="nccudc" src={NCCUDC27} alt="NCCUDC27 picture" width="100%" height="auto" />
             <Row style={styles.row}>
                 <Col className="g-0"></Col>
                 <Col xs={colsize} className="g-0">

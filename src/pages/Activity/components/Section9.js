@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 幹訓 from './../public/幹訓.jpg'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // 幹訓
 const Section9 = ({btnSize}) => {
     return (
         <section>
             <h2>幹訓</h2>
-            <img src={幹訓} alt="幹訓大合照" width="100%"/>
+            <Image fluid src={幹訓} alt="幹訓大合照" width="100%"/>
             <p>大家晚安晚安 再幾天就要去幹訓玩了
                 <br/>在這邊我們有幾項事情要宣布！
                 <br/>集合 6/19

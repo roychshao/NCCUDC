@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 聖誕小成 from './../public/聖誕小成.jpg'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // 聖誕小成
 const Section4 = ({btnSize}) => {
     return (
         <section>
             <h2>聖誕小成</h2>
-            <img src={聖誕小成} alt="聖誕小成" width="100%"/>
+            <Image fluid src={聖誕小成} alt="聖誕小成" width="100%"/>
             <p>【活動日期】
                 <br/>2020年12月25日星期五 
                 <br/>【活動地點】

@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 世政輔 from './../public/世政輔.jpg'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // 世政輔
 const Section5 = ({btnSize}) => {
     return (
         <section>
             <h2>世政輔</h2>
-            <img src={世政輔} alt="世政輔" width="100%"/>
+            <Image fluid src={世政輔} alt="世政輔" width="100%"/>
             <p>-世新 X 政大 X 輔仁--
                 <br/>賽事資訊:
                 <br/>一、

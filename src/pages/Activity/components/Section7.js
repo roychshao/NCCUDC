@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import cc_combat from './../public/cc_combat.jpg'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // CC combat
 const Section7 = ({btnSize}) => {
     return (
         <section>
             <h2>CC combat</h2>
-            <img src={cc_combat} alt="CC combat" width="100%"/>
+            <Image fluid src={cc_combat} alt="CC combat" width="100%"/>
             <p>久等了各位～
                 <br/>睽違三年的CC Combat終於要回來了！快來手刀報名吧～
                 <br/>►時間：5/7 （六）11.30報到，12.30開始

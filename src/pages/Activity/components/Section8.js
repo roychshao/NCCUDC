@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 未來商鋪 from './../public/未來商鋪.jpg'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // 成果發表
 const Section8 = ({btnSize}) => {
     return (
         <section>
             <h2>成果發表</h2>
-            <img src={未來商鋪} alt="成果發表" width="100%"/>
+            <Image fluid src={未來商鋪} alt="成果發表" width="100%"/>
             <p>政大熱舞社27屆成果發表《未來X商舖》
                 <br/>日期：2022/06/02（四）
                 <br/>時間：

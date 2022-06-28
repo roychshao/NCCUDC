@@ -8,9 +8,9 @@ btnSize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section6.js	/^c
 btnSize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section7.js	/^const Section7 = ({btnSize}) => {$/;"	M	language:JavaScript	class:Section7
 btnSize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section8.js	/^const Section8 = ({btnSize}) => {$/;"	M	language:JavaScript	class:Section8
 btnSize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section9.js	/^const Section9 = ({btnSize}) => {$/;"	M	language:JavaScript	class:Section9
-cc_combat	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section7.js	/^            <img src={cc_combat} alt="CC combat" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4ede825c0101
+cc_combat	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section7.js	/^            <Image fluid src={cc_combat} alt="CC combat" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4ede825c0101
 closeNav	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Sidebar.js	/^    const closeNav = () => {$/;"	C	language:JavaScript
-college_high	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section2.js	/^            <img src={college_high} alt="college-high" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edbc4770101
+college_high	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section2.js	/^            <Image fluid src={college_high} alt="college-high" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edbc4770101
 e	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Sidebar.js	/^        var e = document.getElementById(id);$/;"	v	language:JavaScript
 openNav	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Sidebar.js	/^    const openNav = () => {$/;"	C	language:JavaScript
 scroll	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Sidebar.js	/^    const scroll = (id) => {$/;"	C	language:JavaScript
@@ -24,9 +24,9 @@ Section7	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section7.js	/^
 Section8	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section8.js	/^const Section8 = ({btnSize}) => {$/;"	C	language:JavaScript
 Section9	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section9.js	/^const Section9 = ({btnSize}) => {$/;"	C	language:JavaScript
 Sidebar	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Sidebar.js	/^const Sidebar = () => {$/;"	C	language:JavaScript
-世政輔	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section5.js	/^            <img src={世政輔} alt="世政輔" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edd699a0101
-四校party	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section6.js	/^            <img src={四校party} alt="四校" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4eddf5fb0101
-幹訓	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section9.js	/^            <img src={幹訓} alt="幹訓大合照" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edf9b1e0101
-未來商鋪	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section8.js	/^            <img src={未來商鋪} alt="成果發表" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edf0ebd0101
-社內盃	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section3.js	/^            <img src={社內盃} alt="社內盃" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edc50d80101
-聖誕小成	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section4.js	/^            <img src={聖誕小成} alt="聖誕小成" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edcdd390101
+世政輔	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section5.js	/^            <Image fluid src={世政輔} alt="世政輔" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edd699a0101
+四校party	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section6.js	/^            <Image fluid src={四校party} alt="四校" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4eddf5fb0101
+幹訓	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section9.js	/^            <Image fluid src={幹訓} alt="幹訓大合照" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edf9b1e0101
+未來商鋪	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section8.js	/^            <Image fluid src={未來商鋪} alt="成果發表" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edf0ebd0101
+社內盃	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section3.js	/^            <Image fluid src={社內盃} alt="社內盃" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edc50d80101
+聖誕小成	/home/roy/codes/Web/NCCUDC/src/pages/Activity/components/Section4.js	/^            <Image fluid src={聖誕小成} alt="聖誕小成" width="100%"\/>$/;"	M	language:JavaScript	class:AnonymousClass4edcdd390101

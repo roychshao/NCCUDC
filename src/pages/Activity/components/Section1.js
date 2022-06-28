@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 迎新舞展大合照 from './../public/迎新舞展大合照.jpg'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // 迎新舞展
 const Section1 = ({btnSize}) => {
@@ -8,7 +8,7 @@ const Section1 = ({btnSize}) => {
         <section>
             <h1 className="anchor" id="迎新舞展">活動<hr /></h1>
             <h2>迎新舞展 - 社交一點舞公尺</h2>
-            <img src={迎新舞展大合照} alt="迎新舞展大合照" width="100%" />
+            <Image fluid src={迎新舞展大合照} alt="迎新舞展大合照" width="100%" />
             <p>
                 Cautious 
                 <br/>疫情延燒，所有人無一倖免。

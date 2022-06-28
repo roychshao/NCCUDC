@@ -1,5 +1,5 @@
 .about-page {
-    margin-top: 130px;
+    margin-top: 8.125rem;
     overflow-y: auto;
 }
 
@@ -9,19 +9,20 @@
 }
 
 .about-page p {
-    font-size: 20px;
+    width: 62.5rem;
+    font-size: 1.25rem;
     font-weight: medium;
-    margin-top: 40px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-top: 2.5rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
     background-color: #E0E0E0;
     border-left: 5px #8E8E8E solid;
 }
 
 .sidebar {
-  margin-top: 76px;
+  margin-top: 4.75rem;
   height: 100%;
   width: 0;
   position: fixed;
@@ -31,13 +32,13 @@
   background-color: #111;
   overflow-x: hidden;
   transition: 0.5s;
-  padding-top: 60px;
+  padding-top: 3.75rem;
 }
 
 .sidebar a {
-  padding: 8px 8px 8px 32px;
+  padding: 0.5rem 0.5rem 0.5rem 2rem;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 1.5625rem;
   color: #818181;
   display: block;
   transition: 0.3s;
@@ -50,20 +51,20 @@
 .sidebar .closebtn {
   position: absolute;
   top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
+  right: 1.5625rem;
+  font-size: 2.25rem;
+  margin-left: 3.125rem;
 }
 
 .openbtn {
   position: fixed;
-  top: 90px;
-  left: 50px;
-  font-size: 20px;
+  top: 5.625rem;
+  left: 3.125rem;
+  font-size: 1.25rem;
   cursor: pointer;
   background-color: #111;
   color: white;
-  padding: 10px 15px;
+  padding: 0.625rem 0.9375rem;
   border: none;
 }
 
@@ -73,23 +74,23 @@
 
 #main {
   transition: margin-left .5s;
-  padding: 16px;
+  padding: 1rem;
 }
 
 @media only screen and (max-width: 991px) {
     .sidebar {
-        margin-top: 45px !important;
+        margin-top: 2.8125rem !important;
     }
     .openbtn {
-        top: 70px !important;
+        top: 4.375rem !important;
     }
 }
 
 @media only screen and (max-width: 800px) {
-    img {
-        height: 305px !important;
+    /*img {
+        height: 19rem !important;
         width: 100% !important;
-    }
+    }*/
     p {
         font-size: 1rem !important;
         width: auto !important;
@@ -101,15 +102,16 @@
         font-size: 1.2rem !important;
     }
     .sidebar a {
-        font-size: 20px !important;
+        font-size: 1.25rem !important;
     }
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 370px) {
+    /*
     img {
-        height: 127px !important;
+        height: 8.1rem !important;
         width: 100% !important;
-    }
+    }*/
     p {
         font-size: 0.8rem !important;
         width: auto !important;

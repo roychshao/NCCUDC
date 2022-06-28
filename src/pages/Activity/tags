@@ -19,8 +19,6 @@
 Activity	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^const Activity = () => {$/;"	C	language:JavaScript
 btnsize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const [colsize, btnsize] = useRWD();$/;"	C	language:JavaScript
 handleRWD	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const handleRWD = () => {$/;"	C	language:JavaScript
-img	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    img {$/;"	s	language:CSS
-img	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    img {$/;"	s	language:CSS
 p	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    p {$/;"	s	language:CSS
 p	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    p {$/;"	s	language:CSS
 section	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^section {$/;"	s	language:CSS

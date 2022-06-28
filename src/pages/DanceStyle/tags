@@ -22,8 +22,6 @@ colsize	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^    const col
 DanceStyle	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^const DanceStyle = () => {$/;"	C	language:JavaScript
 handleRWD	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^    const handleRWD = () => {$/;"	C	language:JavaScript
 height	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^        height: "50px"$/;"	p	language:JavaScript	class:space
-img	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^    img {$/;"	s	language:CSS
-img	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^    img {$/;"	s	language:CSS
 p	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^    p {$/;"	s	language:CSS
 p	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^    p {$/;"	s	language:CSS
 setColsize	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^    const [colsize, setColsize] = useState(7);$/;"	C	language:JavaScript

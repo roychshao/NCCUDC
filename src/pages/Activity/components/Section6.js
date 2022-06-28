@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 四校party from './../public/四校party.jpg'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // 四校
 const Section6 = ({btnSize}) => {
     return (
         <section>
             <h2>四校party</h2>
-            <img src={四校party} alt="四校" width="100%"/>
+            <Image fluid src={四校party} alt="四校" width="100%"/>
             <p>《DANCERA》
                 <br/>四校聯合屬於跳舞人的派對Vol.8
                 <br/>台大/政大/北大/輔大

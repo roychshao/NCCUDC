@@ -1,13 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 社內盃 from './../public/社內盃.jpg'
-import { Button } from 'react-bootstrap'
+import { Button, Image } from 'react-bootstrap'
 
 // College High
 const Section3 = ({btnSize}) => {
     return (
         <section>
             <h2>社內盃</h2>
-            <img src={社內盃} alt="社內盃" width="100%"/>
+            <Image fluid src={社內盃} alt="社內盃" width="100%"/>
             <p>《政大搖擺─擺脫過去，趴踢起來》政大熱舞社內派對
                 <br/>【報名辦法及時間】
                 <br/>分為「網路報名」及「現場報名」
