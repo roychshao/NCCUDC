@@ -1,13 +1,45 @@
 {
   "files": {
-    "main.css": "/NCCUDC/static/css/main.664dca6c.css",
-    "main.js": "/NCCUDC/static/js/main.de832fac.js",
+    "main.css": "/NCCUDC/static/css/main.5e86f58c.css",
+    "main.js": "/NCCUDC/static/js/main.25b3fd9e.js",
+    "static/media/l1.png": "/NCCUDC/static/media/l1.282d137022375f96950a.png",
+    "static/media/聖誕小成.jpg": "/NCCUDC/static/media/聖誕小成.b56879730f62b5a9658a.jpg",
+    "static/media/社內盃.jpg": "/NCCUDC/static/media/社內盃.eac48e28f7b19d4924dd.jpg",
+    "static/media/四校party.jpg": "/NCCUDC/static/media/四校party.d7bbca23c0c842af3d96.jpg",
+    "static/media/b2.jpeg": "/NCCUDC/static/media/b2.2116f61a168429b842c7.jpeg",
+    "static/media/p3.jpeg": "/NCCUDC/static/media/p3.8499931f1d65b58015bf.jpeg",
+    "static/media/hh1.jpg": "/NCCUDC/static/media/hh1.4fb821db88cd2fff9a5f.jpg",
+    "static/media/h2.jpeg": "/NCCUDC/static/media/h2.8e72f5f4351866ada4ce.jpeg",
+    "static/media/世政輔.jpg": "/NCCUDC/static/media/世政輔.82736940fd304549c84b.jpg",
+    "static/media/迎新舞展大合照.jpg": "/NCCUDC/static/media/迎新舞展大合照.9e83f7cd0ed0dbc6f43d.jpg",
+    "static/media/college_high.png": "/NCCUDC/static/media/college_high.ac0debbfd2468ec479d4.png",
+    "static/media/p1.jpeg": "/NCCUDC/static/media/p1.455821e69fb931871236.jpeg",
+    "static/media/p2.jpg": "/NCCUDC/static/media/p2.346c4b2f9071967053bf.jpg",
+    "static/media/b1.webp": "/NCCUDC/static/media/b1.1609a02471718b849872.webp",
+    "static/media/NCCUDC27.jpg": "/NCCUDC/static/media/NCCUDC27.6ef26bc8537cfe231e7c.jpg",
+    "static/media/hh3.jpeg": "/NCCUDC/static/media/hh3.bc0dc19ba28bc7788c3b.jpeg",
+    "static/media/h1.jpg": "/NCCUDC/static/media/h1.787d489074d6085fc5b9.jpg",
+    "static/media/幹訓.jpg": "/NCCUDC/static/media/幹訓.f9fb4e901b388cd99ebf.jpg",
+    "static/media/j1.jpg": "/NCCUDC/static/media/j1.ca222de72aab8096e4f2.jpg",
+    "static/media/未來商鋪.jpg": "/NCCUDC/static/media/未來商鋪.d8ff38e9c11692221c52.jpg",
+    "static/media/b3.jpeg": "/NCCUDC/static/media/b3.0f39869299ce12d2127a.jpeg",
+    "static/media/cc_combat.jpg": "/NCCUDC/static/media/cc_combat.0f9b1b9224edace86ab5.jpg",
+    "static/media/w3.jpeg": "/NCCUDC/static/media/w3.e61a2b45571f29f6fb60.jpeg",
+    "static/media/l3.jpg": "/NCCUDC/static/media/l3.1b4fba0d6e602acd32e1.jpg",
+    "static/media/j2.jpg": "/NCCUDC/static/media/j2.188ea552284d482b6b8f.jpg",
+    "static/media/h3.jpg": "/NCCUDC/static/media/h3.7321330693dda806b723.jpg",
+    "static/media/j3.jpg": "/NCCUDC/static/media/j3.02b2a73799af93776229.jpg",
+    "static/media/w1.webp": "/NCCUDC/static/media/w1.b60a7824c5e4f9f2b23e.webp",
+    "static/media/d2.jpg": "/NCCUDC/static/media/d2.bc1aee0511ee446476fc.jpg",
+    "static/media/l2.jpeg": "/NCCUDC/static/media/l2.e32eb410f80a9ae002e9.jpeg",
+    "static/media/hh2.jpg": "/NCCUDC/static/media/hh2.8876c446c2e4219aaa50.jpg",
+    "static/media/w2.webp": "/NCCUDC/static/media/w2.bb3d66c88b198d4a5bed.webp",
     "index.html": "/NCCUDC/index.html",
-    "main.664dca6c.css.map": "/NCCUDC/static/css/main.664dca6c.css.map",
-    "main.de832fac.js.map": "/NCCUDC/static/js/main.de832fac.js.map"
+    "main.5e86f58c.css.map": "/NCCUDC/static/css/main.5e86f58c.css.map",
+    "main.25b3fd9e.js.map": "/NCCUDC/static/js/main.25b3fd9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.664dca6c.css",
-    "static/js/main.de832fac.js"
+    "static/css/main.5e86f58c.css",
+    "static/js/main.25b3fd9e.js"
   ]
 }
