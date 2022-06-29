@@ -30,8 +30,8 @@ const Dancehall = () => {
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
-            <p>Dancehall这个名字形容在1980年的牙买加出现的音乐，同时也形容在此音乐上即兴创作的舞蹈。接下来，Dancehall在牙买加发展了，同时开始扩散到安的列斯群岛（Antilles）, 留尼汪岛（Reunion）,毛里求斯岛 （Ile Maurice）等。1990年在法国开始出现。这个舞种原来强调胸和腰的波动，然后慢慢的融合了不同的其他元素。现在dancehall经常会融合一些和hiphop、爵士、非洲舞蹈的元素。
-Dancehall dance 分为dancehall queen【女生跳】和dancehall king【男生跳】。牙买加人认为女生可以跳所有你想跳的，但是他们不可以接受一个男生去跳女生的move。</p>
+            <p>Dancehall這個名字形容在1980年的牙買加出現的音樂，同時也形容在此音樂上即興創作的舞蹈。接下来，Dancehall在牙買加發展了，同時開始擴散到安的列斯群島（Antilles）, 留尼汪島（Reunion）,毛里求斯島 （Ile Maurice）等。1990年在法國開始出現。這個舞種原来強調胸和腰的波動，然後慢慢的融合了不同的其他元素。現在dancehall經常會融合一些和hiphop、爵士、非洲舞蹈的元素。
+Dancehall dance 分為dancehall queen【女生跳】和dancehall king【男生跳】。牙買加人認為女生可以跳所有你想跳的，但是他們不可以接受一個男生去跳女生的move。</p>
             <h1 id="hiphop"></h1>
             <br/><br/><br/>
         </div>

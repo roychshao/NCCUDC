@@ -24,6 +24,6 @@ handleRWD	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^    const h
 height	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^        height: "50px"$/;"	p	language:JavaScript	class:space
 p	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^    p {$/;"	s	language:CSS
 p	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.css	/^    p {$/;"	s	language:CSS
-setColsize	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^    const [colsize, setColsize] = useState(7);$/;"	C	language:JavaScript
+setColsize	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^    const [colsize, setColsize] = useState(6);$/;"	C	language:JavaScript
 space	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^    const space = {$/;"	c	language:JavaScript
 useRWD	/home/roy/codes/Web/NCCUDC/src/pages/DanceStyle/index.js	/^const useRWD = () => {$/;"	C	language:JavaScript

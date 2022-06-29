@@ -18,7 +18,7 @@ import './index.css';
 
 
 const useRWD = () => {
-    const [colsize, setColsize] = useState(7);
+    const [colsize, setColsize] = useState(6);
     const handleRWD = () => {
         if(window.innerWidth > 768) {
             setColsize(6);

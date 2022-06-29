@@ -23,5 +23,5 @@ p	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    p {$/;"	s	langua
 p	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^    p {$/;"	s	language:CSS
 section	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.css	/^section {$/;"	s	language:CSS
 setBtnsize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const [btnsize, setBtnsize] = useState("lg");$/;"	C	language:JavaScript
-setColsize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const [colsize, setColsize] = useState(7);$/;"	C	language:JavaScript
+setColsize	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^    const [colsize, setColsize] = useState(6);$/;"	C	language:JavaScript
 useRWD	/home/roy/codes/Web/NCCUDC/src/pages/Activity/index.js	/^const useRWD = () => {$/;"	C	language:JavaScript

@@ -19,7 +19,7 @@ import { Button, Container, Row, Col } from 'react-bootstrap';
 
 
 const useRWD = () => {
-    const [colsize, setColsize] = useState(7);
+    const [colsize, setColsize] = useState(6);
     const [btnsize, setBtnsize] = useState("lg");
     const handleRWD = () => {
         if(window.innerWidth > 768) {
