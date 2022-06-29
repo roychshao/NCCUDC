@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NCCUDC/static/css/main.1f3c2999.css",
+    "main.css": "/NCCUDC/static/css/main.b734719c.css",
     "main.js": "/NCCUDC/static/js/main.c102f3a6.js",
     "static/media/l1.png": "/NCCUDC/static/media/l1.282d137022375f96950a.png",
     "static/media/聖誕小成.jpg": "/NCCUDC/static/media/聖誕小成.b56879730f62b5a9658a.jpg",
@@ -35,11 +35,11 @@
     "static/media/hh2.jpg": "/NCCUDC/static/media/hh2.8876c446c2e4219aaa50.jpg",
     "static/media/w2.webp": "/NCCUDC/static/media/w2.bb3d66c88b198d4a5bed.webp",
     "index.html": "/NCCUDC/index.html",
-    "main.1f3c2999.css.map": "/NCCUDC/static/css/main.1f3c2999.css.map",
+    "main.b734719c.css.map": "/NCCUDC/static/css/main.b734719c.css.map",
     "main.c102f3a6.js.map": "/NCCUDC/static/js/main.c102f3a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f3c2999.css",
+    "static/css/main.b734719c.css",
     "static/js/main.c102f3a6.js"
   ]
 }
