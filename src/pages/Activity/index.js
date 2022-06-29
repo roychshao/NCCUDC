@@ -23,7 +23,7 @@ const useRWD = () => {
     const [btnsize, setBtnsize] = useState("lg");
     const handleRWD = () => {
         if(window.innerWidth > 768) {
-            setColsize(7);
+            setColsize(6);
             setBtnsize("lg");
         } else {
             setColsize(9);

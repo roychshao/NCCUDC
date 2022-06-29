@@ -12,19 +12,19 @@ const Breaking = () => {
             <h4>Breaking</h4>
             <Carousel variant="light">
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={b1} alt="breaking" height="550px" width="1000px"/>
+                    <Image fluid src={b1} alt="breaking" height="550px" width="100%"/>
                     <Carousel.Caption>
                         <h3>地板霹靂舞（Breaking、Breakdance、b-boying），是街舞的一種，也是第一種嘻哈舞種。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={b2} alt="breaking" height="550px" width="1000px"/>
+                    <Image fluid src={b2} alt="breaking" height="550px" width="100%"/>
                     <Carousel.Caption>
                         <h3>Breaking的中文翻譯是地板，地板動作或霹靂舞。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={b3} alt="breaking" height="550px" width="1000px"/>
+                    <Image fluid src={b3} alt="breaking" height="550px" width="100%"/>
                     <Carousel.Caption>
                         <h3>比較值得注意的是，早期跳霹靂舞的舞者多為西班牙語裔美國人，而非非裔美國人，然而他們當初偏好的音樂風格卻大大影響至今嘻哈音樂。</h3>
                     </Carousel.Caption>

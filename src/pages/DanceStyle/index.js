@@ -21,7 +21,7 @@ const useRWD = () => {
     const [colsize, setColsize] = useState(7);
     const handleRWD = () => {
         if(window.innerWidth > 768) {
-            setColsize(7);
+            setColsize(6);
         } else {
             setColsize(9);
         }

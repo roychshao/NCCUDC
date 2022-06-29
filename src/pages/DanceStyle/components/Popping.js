@@ -11,19 +11,19 @@ const Popping = () => {
             <h4>Popping</h4>
             <Carousel variant="light">
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={p1} alt="popping" height="500px" width="1000px"/>
+                    <Image fluid src={p1} alt="popping" height="500px" width="100%"/>
                     <Carousel.Caption>
                         <h3>popping是放克舞蹈和街舞中的一種風格，基本是藉由肌肉迅速地收縮與放鬆的技巧，使舞者的身體產生種顫動的感覺。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={p2} alt="popping" height="500px" width="1000px"/>
+                    <Image fluid src={p2} alt="popping" height="500px" width="100%"/>
                     <Carousel.Caption>
                         <h3>這種技巧稱作「pop」或「hit」，舞者會以多種不同的動作和姿勢來配合歌曲的節奏。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={p3} alt="popping" height="500px" width="1000px"/>
+                    <Image fluid src={p3} alt="popping" height="500px" width="100%"/>
                     <Carousel.Caption>
                         <h3>popping舞者又被稱為「popper」。popping常被說是機械舞,'機械'是在popping中的一種技巧,這種技巧稱作「robot」。 </h3>
                     </Carousel.Caption>

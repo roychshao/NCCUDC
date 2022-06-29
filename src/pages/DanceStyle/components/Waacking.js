@@ -12,19 +12,19 @@ const Waacking = () => {
             <h4>Waacking</h4>
             <Carousel variant="light">
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={w1} alt="waacking" height="550px" width="1000px"/>
+                    <Image fluid src={w1} alt="waacking" height="550px" width="100%"/>
                     <Carousel.Caption>
                         <h3>起源於70年代美國洛杉磯（Los Angeles）的同性戀酒吧。在那個社會還沒現在開放的年代，大眾文化是不接受同性戀的存在的。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={w2} alt="waacking" height="550px" width="1000px"/>
+                    <Image fluid src={w2} alt="waacking" height="550px" width="100%"/>
                     <Carousel.Caption>
                         <h3>同性戀在生活中必須隱藏自己的性取向。但在舞廳裡，LGBTQ群體們無須隱藏自己的身分，可以盡情解放自我。</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={6000}>
-                    <Image fluid src={w3} alt="waacking" height="550px" width="1000px"/>
+                    <Image fluid src={w3} alt="waacking" height="550px" width="100%"/>
                     <Carousel.Caption>
                         <h3>用控制身體的方式自由穿梭在陰陽的詮釋之間，去轉化現實生活中憑一己之力不能動搖的事情。</h3>
                     </Carousel.Caption>

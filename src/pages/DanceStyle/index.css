@@ -9,7 +9,7 @@
 }
 
 .about-page p {
-    width: 100%;
+    width: auto;
     font-size: 1.25rem;
     font-weight: medium;
     margin-top: 2.5rem;
