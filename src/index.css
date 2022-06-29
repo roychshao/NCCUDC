@@ -52,7 +52,7 @@ code {
 
 .btn-outline-success {
     margin-left: 120px;
-    margin-top: 830px;
+    margin-top: 48%;
     position: fixed;
 }
 
@@ -72,12 +72,24 @@ footer p {
     padding-top: 0.9375rem;
 }
 
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 1024px) {
     .navbar-nav {
         margin-left: 50%;
     }
     .btn-outline-success {
-        margin-left: 10px !important;
+        margin-top: 65%;
+        margin-left: 5% !important;
+        z-index: 10 !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-nav {
+        margin-left: 50%;
+    }
+    .btn-outline-success {
+        margin-top: 120%;
+        margin-left: 3% !important;
         z-index: 10 !important;
     }
 }
@@ -87,7 +99,7 @@ footer p {
         margin-left: 20% !important;
     }
     .btn-outline-success {
-        margin-top: 40.15rem !important;
+        margin-top: 210% !important;
         margin-left: -2.8125rem !important;
         z-index: 10;
     }

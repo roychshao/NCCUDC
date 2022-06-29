@@ -9,7 +9,7 @@
 }
 
 .about-page p {
-    width: 62.5rem;
+    width: 100%;
     font-size: 1.25rem;
     font-weight: medium;
     margin-top: 2.5rem;
@@ -83,6 +83,7 @@
     }
     .openbtn {
         top: 4.375rem !important;
+        z-index: 10000;
     }
 }
 
