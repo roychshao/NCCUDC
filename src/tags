@@ -12,6 +12,7 @@
 .navbar-nav	/home/roy/codes/Web/NCCUDC/src/index.css	/^    .navbar-nav {$/;"	c	language:CSS
 .navbar-nav	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navbar-nav {$/;"	c	language:CSS
 .navbar-nav a:link	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navbar-nav a:link {$/;"	s	language:CSS
+.navbar.navbar-expand-lg.navbar-dark.bg-dark.fixed-top	/home/roy/codes/Web/NCCUDC/src/index.css	/^    .navbar.navbar-expand-lg.navbar-dark.bg-dark.fixed-top {$/;"	c	language:CSS
 .navlink	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navlink {$/;"	c	language:CSS
 .navlink:hover	/home/roy/codes/Web/NCCUDC/src/index.css	/^.navlink:hover {$/;"	c	language:CSS
 body	/home/roy/codes/Web/NCCUDC/src/index.css	/^body {$/;"	s	language:CSS

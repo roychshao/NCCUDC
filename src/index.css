@@ -92,6 +92,9 @@ footer p {
         margin-left: 3% !important;
         z-index: 10 !important;
     }
+    .navbar.navbar-expand-lg.navbar-dark.bg-dark.fixed-top {
+        z-index: 10001;
+    }
 }
 
 @media screen and (max-width: 370px) {
@@ -104,3 +107,4 @@ footer p {
         z-index: 10;
     }
 }
+
